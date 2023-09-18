@@ -4,6 +4,7 @@
 
 ### Enlaces a los ejemplos:
 
-- [Hola Mundo](holaMundo.py)
-- [Variables](variables.py)
-- [Operadores](operadores.py)
+- [Hola Mundo](python_basico/holaMundo.py)
+- [Variables](python_basico/variables.py)
+- [Operadores](python_basico/operadores.py)
+- [Strings](python_basico/strings.py)
