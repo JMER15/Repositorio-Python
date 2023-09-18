@@ -8,3 +8,4 @@
 - [Variables](python_basico/variables.py)
 - [Operadores](python_basico/operadores.py)
 - [Strings](python_basico/strings.py)
+- [Listas](python_basico/listas.py)
