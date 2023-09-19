@@ -9,3 +9,4 @@
 - [3. Operadores](python_basico/03_operadores.py)
 - [4. Strings](python_basico/04_strings.py)
 - [5. Listas](python_basico/05_listas.py)
+- [6. Tuplas](python_basico/06_tuplas.py)
