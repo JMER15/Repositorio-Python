@@ -11,3 +11,4 @@
 - [5. Listas](python_basico/05_listas.py)
 - [6. Tuplas](python_basico/06_tuplas.py)
 - [7. Sets](python_basico/07_sets.py)
+- [8. Diccionarios](python_basico/08_diccionarios.py)
