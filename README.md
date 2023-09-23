@@ -14,3 +14,4 @@
 - [8. Diccionarios](python_basico/08_diccionarios.py)
 - [9. Condicionales](python_basico/09_condicionales.py)
 - [10. Bucles](python_basico/10_bucles.py)
+- [11. Funciones](python_basico/11_funciones.py)
