@@ -2,6 +2,8 @@
 
 ### Autor: José Miguel Escribano Ruiz
 
+## Python Básico
+
 ### Enlaces a los ejemplos:
 
 - [1. Hola Mundo](python_basico/01_holaMundo.py)
@@ -19,3 +21,5 @@
 - [13. Excepciones](python_basico/13_excepciones.py)
 - [14. Módulos](python_basico/14_modulos.py)
 - [Fichero Módulo](python_basico/modulo.py)
+
+## Python Medio
