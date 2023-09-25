@@ -16,3 +16,4 @@
 - [10. Bucles](python_basico/10_bucles.py)
 - [11. Funciones](python_basico/11_funciones.py)
 - [12. Clases](python_basico/12_clases.py)
+- [13. Excepciones](python_basico/13_excepciones.py)
