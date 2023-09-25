@@ -17,3 +17,5 @@
 - [11. Funciones](python_basico/11_funciones.py)
 - [12. Clases](python_basico/12_clases.py)
 - [13. Excepciones](python_basico/13_excepciones.py)
+- [14. Módulos](python_basico/14_modulos.py)
+- [Fichero Módulo](python_basico/modulo.py)
