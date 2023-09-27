@@ -23,3 +23,5 @@
 - [Fichero Módulo](python_basico/modulo.py)
 
 ## Python Medio
+
+- [1. Dates](python_medio/01_dates.py)
