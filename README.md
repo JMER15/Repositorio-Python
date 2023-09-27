@@ -25,3 +25,4 @@
 ## Python Medio
 
 - [1. Dates](python_medio/01_dates.py)
+- [2. Listas Comprehension](python_medio/02_list_comprehension.py)
