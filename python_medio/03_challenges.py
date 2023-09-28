@@ -2,7 +2,7 @@
 Retos de programación en Python
 Autor: José Miguel Escribano Ruiz
 Fecha: 27/09/2023
-Descripción:retos de programación en Python
+Descripción: Retos de programación en Python
 
 """
 
