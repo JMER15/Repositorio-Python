@@ -28,3 +28,4 @@
 - [2. Listas Comprehension](python_medio/02_list_comprehension.py)
 - [3. Challenges](python_medio/03_challenges.py)
 - [4. Lambdas](python_medio/04_lambdas.py)
+- [5. Funciones Orden Superior](python_medio/05_funciones_orden_superior.py)
