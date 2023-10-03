@@ -30,3 +30,4 @@
 - [4. Lambdas](python_medio/04_lambdas.py)
 - [5. Funciones Orden Superior](python_medio/05_funciones_orden_superior.py)
 - [6. Tipos de Errores](python_medio/06_tipos_errores.py)
+- [7. Ficheros](python_medio/07_ficheros.py)
